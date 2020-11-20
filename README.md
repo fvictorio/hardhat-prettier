@@ -8,8 +8,6 @@ This plugin lets you automatically format your code using Prettier Solidity and 
 
 ## Installation
 
-<_A step-by-step guide on how to install the plugin_>
-
 ```bash
 npm install hardhat-prettier prettier prettier-plugin-solidity
 ```
